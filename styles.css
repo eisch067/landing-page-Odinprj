@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto';
+
+}
+
+header,footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    margin: auto;
+}
+header {
+    display: flex;
+    justify-content: end;
+}
+.part-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+}
+
+ul{
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
